@@ -1,0 +1,6 @@
+This folder consists the implementation of following Algorithms in Python 2.7 with their complexities mentioned in comments.
+          a. Bubble Sort
+          b. Selection Sort
+          c. Insertion Sort
+          d. Heap Sort
+          e. Merge Sort
